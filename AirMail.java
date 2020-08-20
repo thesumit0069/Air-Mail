@@ -6,6 +6,7 @@ import javax.mail.PasswordAuthentication;
 import javax.swing.JFileChooser;
 import javax.activation.FileDataSource;
 import javax.activation.DataHandler;
+import javax.mail.Authenticator;
 
  
 
@@ -17,7 +18,7 @@ import javax.activation.DataHandler;
 public class AirMail extends javax.swing.JFrame {
 
     /**
-     * Creates new form Air-Mail
+     * Creates new form AirMail
      */
     public AirMail() {
         initComponents();
