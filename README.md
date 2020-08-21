@@ -1,7 +1,16 @@
 # Air-Mail
 
-- Pre-requisite's
+- Prerequisite
       
+    
+       - To execute this java file on Linux System :  
+                  "javac -cp new_mail_api.jar:activation.jar:additional.jar:. AirMail.java"
+                  " java -cp new_mail_api.jar:activation.jar:additional.jar:. AirMail"
+                  
+       - To execute this java file on Windows System :  
+                  "javac -cp new_mail_api.jar;activation.jar;additional.jar;. AirMail.java"
+                  " java -cp new_mail_api.jar;activation.jar;additional.jar;. AirMail"   
+                  
        - Ensure that you have allowed Mails from less secured apps on your Receivers Mail-Id. 
          if not turn ON  from this link  (https://myaccount.google.com/lesssecureapps)
        - Stable Internet Connection
@@ -21,7 +30,7 @@
         - Automatically , Clear's  Subject, File added , Heart , Recipients  Mail-id  fields.
 
 
-## APPLICATION DEVELOPE BY
+## APPLICATION DEVELOPED BY :
 
         -  JAVA lang.
 
@@ -30,8 +39,7 @@
         -  Netbeans (IDE)
 
 
-## USER INTERFACE
-
+## GUI :
 
 
 
