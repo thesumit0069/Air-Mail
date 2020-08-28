@@ -23,7 +23,9 @@
 
         - Sending mails from Gmail Service's
 
-        -  Attachng files
+        - Able to Send mail to any Mail Service Provider(eg. Yahoo,Outlook,Zoho)
+            
+        - Attachng files
 
         - Adding Multiple paragraphs
 
